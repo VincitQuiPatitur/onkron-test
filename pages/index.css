@@ -2,6 +2,7 @@
 @import url(../fonts/gilroy.css);
 
 @import url(../blocks/page/page.css);
+
 @import url(../blocks/promo/promo.css);
 @import url(../blocks/promo/__title/promo__title.css);
 @import url(../blocks/promo/__subtitle/promo__subtitle.css);
@@ -12,3 +13,7 @@
 @import url(../blocks/parameters/__image/parameters__image.css);
 @import url(../blocks/parameters/__text/parameters__text.css);
 @import url(../blocks/parameters/__dimension/parameters__dimension.css);
+
+@import url(../blocks/banner/banner.css);
+@import url(../blocks/banner/__image/banner__image.css);
+@import url(../blocks/banner/__title/banner__title.css);
