@@ -1,0 +1,7 @@
+.promo__description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    gap: 10px;
+}

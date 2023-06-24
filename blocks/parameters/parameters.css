@@ -7,3 +7,10 @@
     margin: 0 auto;
     padding-bottom: 40px;
 }
+
+@media (max-width: 1024px) {
+    .parameters {
+        width: 90%;
+        gap: 20px;
+    }
+}
