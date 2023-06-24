@@ -1,3 +1,9 @@
 .parameters__image {
     max-height: 100px;
 }
+
+@media (max-width: 720px) {
+    .parameters__image {
+        height: 40px;
+    }
+}

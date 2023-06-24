@@ -1,0 +1,10 @@
+.information__span {
+    display: inline-block;
+    height: 30px;
+}
+
+@media (max-width: 720px) {
+    .information__span {
+        height: 0;
+    }
+}

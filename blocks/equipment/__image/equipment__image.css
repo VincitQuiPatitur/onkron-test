@@ -1,0 +1,9 @@
+.equipment__image {
+    width: 100%;
+}
+
+@media (max-width: 720px) {
+    .equipment__image {
+        content: url(../../../images/equipment_mobile.png);
+    }
+}

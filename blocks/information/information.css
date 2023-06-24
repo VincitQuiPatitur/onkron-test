@@ -2,32 +2,20 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px 40px;
-    padding: 60px;
+    padding: 50px 60px;
     box-sizing: border-box;
 }
 
-.information__item {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    gap: 30px;
+@media (max-width: 1024px) {
+    .information {
+        gap: 20px 30px;
+        padding: 30px 40px;
+    }
 }
 
-.information__item_reverse {
-    flex-direction: column-reverse;
-}
-
-.information__image {
-    width: 100%;
-}
-
-.information__text {
-    margin: 0;
-    font-size: 28px;
-    font-weight: bold;
-}
-
-.information__span {
-    display: inline-block;
-    height: 30px;
+@media (max-width: 720px) {
+    .information {
+        grid-template-columns: 1fr;
+        padding: 10px 20px;
+    }
 }

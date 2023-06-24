@@ -2,3 +2,15 @@
     margin: 0;
     font-size: 20px;
 }
+
+@media (max-width: 1024px) {
+    .parameters__dimension {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 720px) {
+    .parameters__dimension {
+        font-size: 8px;
+    }
+}
