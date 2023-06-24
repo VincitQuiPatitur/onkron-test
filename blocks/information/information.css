@@ -2,6 +2,6 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px 40px;
-    padding: 60px;
+    padding: 50px 60px;
     box-sizing: border-box;
 }

@@ -17,6 +17,9 @@
 @import url(../blocks/banner/banner.css);
 @import url(../blocks/banner/__image/banner__image.css);
 @import url(../blocks/banner/__title/banner__title.css);
+@import url(../blocks/banner/__title/_left/banner__title_left.css);
+@import url(../blocks/banner/__title/_right/banner__title_right.css);
+@import url(../blocks/banner/__title/_bottom/banner__title_bottom.css);
 
 @import url(../blocks/information/information.css);
 @import url(../blocks/information/__item/information__item.css);
