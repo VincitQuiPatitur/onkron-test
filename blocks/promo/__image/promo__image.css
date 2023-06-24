@@ -3,7 +3,7 @@
 }
 
 @media (max-width: 720px) {
- .promo__banner {
-     order: 1;
- }
+    .promo__banner {
+        order: 1;
+    }
 }
