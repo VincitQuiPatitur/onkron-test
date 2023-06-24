@@ -26,3 +26,6 @@
 @import url(../blocks/information/__image/information__image.css);
 
 @import url(../blocks/two-cards/two-cards.css);
+@import url(../blocks/two-cards/__item/two-cards__item.css);
+@import url(../blocks/two-cards/__image/two-cards__image.css);
+@import url(../blocks/two-cards/__text/two-cards__text.css);

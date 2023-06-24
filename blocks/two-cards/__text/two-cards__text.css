@@ -1,0 +1,8 @@
+.two-cards__text {
+    margin: 0;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 50px;
+    box-sizing: border-box;
+}
