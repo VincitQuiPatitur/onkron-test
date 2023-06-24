@@ -13,3 +13,11 @@
         padding-bottom: 40px;
     }
 }
+
+@media (max-width: 720px) {
+    .two-cards__text {
+        position: static;
+        font-size: 30px;
+        padding-bottom: 0;
+    }
+}

@@ -2,3 +2,9 @@
     margin: 0;
     font-size: 32px;
 }
+
+@media (max-width: 720px) {
+    .promo__subtitle {
+        font-size: 20px;
+    }
+}

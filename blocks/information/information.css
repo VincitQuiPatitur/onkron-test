@@ -12,3 +12,10 @@
         padding: 30px 40px;
     }
 }
+
+@media (max-width: 720px) {
+    .information {
+        grid-template-columns: 1fr;
+        padding: 10px 20px;
+    }
+}

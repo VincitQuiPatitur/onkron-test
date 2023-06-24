@@ -5,3 +5,10 @@
     height: 40px;
     gap: 10px;
 }
+
+@media (max-width: 720px) {
+    .promo__description {
+        order: 3;
+        height: 24px;
+    }
+}

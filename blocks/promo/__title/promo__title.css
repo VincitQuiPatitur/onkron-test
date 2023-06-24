@@ -11,3 +11,10 @@
         font-size: 50px;
     }
 }
+
+@media (max-width: 720px) {
+    .promo__title {
+        order: 2;
+        font-size: 30px;
+    }
+}

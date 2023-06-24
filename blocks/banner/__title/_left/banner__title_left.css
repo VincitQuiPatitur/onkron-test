@@ -8,3 +8,10 @@
         width: 400px;
     }
 }
+
+@media (max-width: 720px) {
+    .banner__title_left {
+        width: 90%;
+        padding-left: 0;
+    }
+}

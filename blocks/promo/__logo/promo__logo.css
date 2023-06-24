@@ -3,3 +3,9 @@
     box-sizing: border-box;
     height: 100%;
 }
+
+@media (max-width: 720px) {
+    .promo__logo {
+        padding: 6px 0 4px;
+    }
+}
